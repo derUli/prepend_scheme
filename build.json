@@ -1,0 +1,10 @@
+{
+	"id": "prepend_scheme",
+	"version": "1.0",
+	"description": "",
+	"categories": [
+		"http",
+		"url"
+	],
+	"compatible_from": "2017.3.12"
+}
